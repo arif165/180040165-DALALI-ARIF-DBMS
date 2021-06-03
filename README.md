@@ -2,6 +2,7 @@
 
 
 What is ER Diagram?
+
 ER Diagram stands for Entity Relationship Diagram, also known as ERD is a diagram that displays the relationship of entity sets stored in a database. In other words, ER diagrams help to explain the logical structure of databases. ER diagrams are created based on three basic concepts: entities, attributes and relationships.
 ER Diagrams contain different symbols that use rectangles to represent entities, ovals to define attributes and diamond shapes to represent relationships.
 
@@ -10,6 +11,7 @@ ER diagrams are a visual tool which is helpful to represent the ER model. It was
 
 
 Why use ER Diagrams?
+
 Here, are prime reasons for using the ER Diagram
 
 Helps you to define terms related to entity relationship modeling
